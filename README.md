@@ -7,7 +7,7 @@ Produzir um ebook com receitas culinárias sem gluten com as facilidades das IAs
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [DaVinciAI](https://davinci.ai/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -21,9 +21,9 @@ ChatGPT：
 | conteúdo | Apresente receitas culinárias simples e rapidas, sem gluten. Apresente 10 receitas. |
 
 
-Midjourney：
+DaVinci AI：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Criar uma imagem com cookies e bananas em cima de uma bancada de cozinha. Uma imagem colroida e vintage.|
 
