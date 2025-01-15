@@ -2,7 +2,7 @@
 
 Produzir um ebook com receitas culinárias sem gluten com as facilidades das IAs.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="EBOOK_RECEITAS CULINARIAS.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -25,5 +25,5 @@ DaVinci AI：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | Criar uma imagem com cookies e bananas em cima de uma bancada de cozinha. Uma imagem colroida e vintage.|
+| título | Criar uma imagem com cookies e bananas em cima de uma bancada de cozinha. Uma imagem colorida e vintage.|
 
